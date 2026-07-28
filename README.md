@@ -1,7 +1,14 @@
-# Quantum-enhanced neural networks for quantum many-body simulations
-These codes are accompanied to the following paper:
+# Quantum-Enhanced Neural Networks for Quantum Many-Body Simulations
 
-  * Zongkang Zhang, Ying Li, Xiaosi Xu, Quantum-enhanced neural networks for quantum many-body simulations.
+This repository contains the code and data accompanying the following paper:
 
-## Requirement
-These codes are written in Python. We implement the neural networks in PyTorch, construct the quantum circuits with PennyLane, and generate the molecular Hamiltonians using OpenFermion. 
+- Zongkang Zhang, Ying Li, and Xiaosi Xu, “Quantum-Enhanced Neural Networks for Quantum Many-Body Simulations,” *PRX Intelligence* **1**, 013002 (2026).  
+  https://doi.org/10.1103/2jpn-jh3x
+
+## Requirements
+
+The code is written in Python. We use:
+
+- [PyTorch](https://pytorch.org/) to implement the neural networks
+- [PennyLane](https://pennylane.ai/) to construct the quantum circuits
+- [OpenFermion](https://quantumai.google/openfermion) to generate the molecular Hamiltonians
