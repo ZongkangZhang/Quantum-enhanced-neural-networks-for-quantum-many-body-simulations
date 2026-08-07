@@ -1,6 +1,6 @@
 # Quantum-Enhanced Neural Networks for Quantum Many-Body Simulations
 
-[![Overview and workflow of the quantum-enhanced neural networks.](./figure/overview.png)](./figure/overview.pdf)
+[![Overview and workflow of the quantum-enhanced neural networks.](./figures/overview.png)](./figures/overview.pdf)
 
 This repository contains the code and data accompanying the following paper:
 
