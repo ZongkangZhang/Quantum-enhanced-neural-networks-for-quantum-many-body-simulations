@@ -5,7 +5,7 @@
     <img
       src="./figures/overview.png"
       alt="Overview and workflow of the quantum-enhanced neural networks."
-      width="85%"
+      width="70%"
     >
   </a>
 </p>
