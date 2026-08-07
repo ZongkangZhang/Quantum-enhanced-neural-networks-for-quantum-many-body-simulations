@@ -1,5 +1,7 @@
 # Quantum-Enhanced Neural Networks for Quantum Many-Body Simulations
 
+[![Overview and workflow of the quantum-enhanced neural networks.](./figure/overview.png)](./figure/overview.pdf)
+
 This repository contains the code and data accompanying the following paper:
 
 - Zongkang Zhang, Ying Li, and Xiaosi Xu, “Quantum-Enhanced Neural Networks for Quantum Many-Body Simulations,” *PRX Intelligence* **1**, 013002 (2026).  
